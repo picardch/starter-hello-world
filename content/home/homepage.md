@@ -8,6 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
 subtitle: ""
+toc: 1
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -50,8 +51,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Get in Touch
 
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}TestUser on 微信  
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)
+{{< icon name="weixin" pack="fab" >}}TestUser on 微信
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
 
 ## Credits
